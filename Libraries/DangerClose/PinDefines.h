@@ -20,4 +20,4 @@
 #define PIN12 12
 #define PIN13 13
 
-#endif
+#endif /* PINDEFINES_H */

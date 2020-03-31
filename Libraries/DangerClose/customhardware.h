@@ -37,4 +37,4 @@ typedef struct
 
 
 
-#endif
+#endif /* CUSTOMHARDWARE_H */

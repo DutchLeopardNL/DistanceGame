@@ -134,4 +134,4 @@ void playWinSound(int buzzerPin)
   noTone(buzzerPin);
 }
 
-#endif
+#endif /* FREQUENCIES_H */
